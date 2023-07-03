@@ -1,4 +1,4 @@
-# SP500-Direction-Predictor-A-Machine-Learning-Approach-with-Backtesting-Model
+# SP500-Direction-Predictor-A-Machine-Learning-Approach-with-Backtesting
 This is an end-to-end project where I develop and backtest a machine learning model that aims to predict the direction of the S&P 500 index. Leveraging Python, I fetch historical price data, perform data cleaning, and apply the RandomForestClassifier from sklearn for model training and prediction. The repository contains a complete walkthrough of the process, which includes data visualization, feature engineering, model evaluation, and backtesting system construction. And I welcome any suggestions for improvements or questions about the project.
 
 ## Introduction
